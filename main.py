@@ -367,4 +367,4 @@ async def play(uri, cid, cookie):
 
 if __name__ == "__main__":
     welcome_msg()
-    uvicorn.run(app, host="0.0.0.0", port=8000, log_level="warning")
+    uvicorn.run(app, host="0.0.0.0", port=3000, log_level="warning")
