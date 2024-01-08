@@ -1,0 +1,127 @@
+body {
+    display: none;
+}
+.iboxshadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#usf_admin_updbtn {
+    font-weight: bold;
+}
+.usfadminbtn {
+    background-color: #00ACC1;
+    color: #ffffff;
+    font-weight: bold;
+    border: none;
+}
+#usf_admin_alert {
+    display: none;
+    font-weight: bold;
+}
+#jio_otp_login_alert
+{
+    display: none;
+    font-weight: bold;
+}
+#jio_otp_login_otp_holder
+{
+    display: none;
+}
+#jio_nonotp_login_alert
+{
+    display: none;
+    font-weight: bold;
+}
+.jio_green_alert
+{
+    color: #08D191;
+    font-weight: bold;
+}
+.jio_warning_alert
+{
+    color: #E73108;
+    font-weight: bold;
+}
+.voot_yo_alert
+{
+    color: #750DC1;
+    font-weight: bold;
+}
+.jionews_yo_alert
+{
+    color: #D6074C;
+    font-weight: bold;
+}
+#jionews_login_alert
+{
+    display: none;
+    font-weight: bold;
+}
+#jionews_login_otpholder
+{
+    display: none;
+}
+#voot_login_alert
+{
+    display: none;
+    font-weight: bold;
+}
+.usfadminbtndark
+{
+    font-weight: bold;
+}
+#lg_jio, #lg_jionews, #lg_voot
+{
+    display: none;
+}
+.ssfabel
+{
+    font-weight: bold;
+    font-size: 13.5px;
+}
+#server_bypass_method_alert
+{
+    display: none;
+    font-weight: bold;
+}
+#wwd_proxy_alert
+{
+    display: none;
+    font-weight: bold;
+}
+#res_method_alert
+{
+    display: none;
+    font-weight: bold;
+}
+#stream_token_sec_alert
+{
+    display: none;
+    font-weight: bold;
+}
+#setStreamModeCurrent
+{
+    color:#750DC1;
+    font-size: 16px;
+    font-weight: bold;
+}
+#update_zone_alert
+{
+    display: none;
+    font-weight: bold;
+}
+#updz_jtv, #updz_jnw, #updz_vot
+{
+    display: none;
+}
+#dpapiStatus
+{
+    color: #12A36E;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#webASts
+{
+    font-weight: bold;
+    color: #12A36E;
+    text-transform: uppercase;
+}

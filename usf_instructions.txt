@@ -1,0 +1,16 @@
+||==================================================================================||
+||      D   E   F   A   U   L   T       A   D   M   I   N       C   R   E   D   S   ||
+||==================================================================================||
+
+    USERNAME - admin
+    PASSWORD - 1234567
+
+||==================================================================================||
+||         I M P O R T A N T        I N S T R U C T I O N S
+||==================================================================================||
+    *. Delete "AppData" Folder inside "app" folder to reset script.
+    *. Admin Panel is located at /manage/ folder
+    *. This software won't run on Android Native Apps
+||==================================================================================||
+
+    Script written by  P.K. for UsefulToolsHub https://telegram.dog/usefultools_hub
